@@ -19,14 +19,17 @@ The project ranks videos based on engagement metrics (views, likes, comments), e
    - Creates word clouds from video titles to identify trending keywords.  
 
 4. **Outputs:**  
-   - All charts, tables, and analysis results are stored in the `outputs/` folder.  
+   - All charts, tables, and analysis results are stored in current repo.  
    - Example images are shown below:
 
 **Top Videos per Section (Example)**  
-![Top Videos Chart](.png)  
+![Top Videos Chart](viral-1.png)  
 
-**Word Cloud of Video Titles (Example)**  
-![Word Cloud](.png)  
+**Trending of Keyword (Example)**  
+![Word Cloud](viral-2.png)  
+
+**top 2 videos for each keyword(Example)**  
+![Word Cloud](viral-3.png)  
 
 ---
 
