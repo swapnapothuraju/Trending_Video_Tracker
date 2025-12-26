@@ -1,4 +1,4 @@
-# TopVideoAnalyzer
+# Trending_Video_Tracker
 
 ## Description
 `Trending_Video_Tracker` is a Python project that analyzes video content to identify top-performing videos across different categories (songs, teasers, trailers, etc.).  
